@@ -1,0 +1,15 @@
+
+bin/
+obj/
+*.user
+*.suo
+*.pidb
+*.psess
+.vs/
+_ReSharper.Caches/
+*.cache
+*.log
+*.tmp
+
+appsettings.Development.json
+Properties/launchSettings.json
